@@ -1,0 +1,8 @@
+@Api.Publisher_HostAddress = https://localhost:7247
+
+POST {{Api.Publisher_HostAddress}}/publisher
+Content-Type: application/json
+
+"Mensagem enviada via HTTP request"
+
+###

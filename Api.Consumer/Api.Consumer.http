@@ -1,0 +1,6 @@
+@Api.Consumer_HostAddress = https://localhost:7042
+
+GET {{Api.Consumer_HostAddress}}/Consumer/
+Accept: application/json
+
+###

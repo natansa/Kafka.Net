@@ -1,4 +1,4 @@
-﻿# Kafka.Net.Api
+﻿# Kafka.Net.Api 🚀
 
 Este projeto contém dois serviços RESTful desenvolvidos em **.NET 9** para integração com o **Apache Kafka**:
 

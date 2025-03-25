@@ -92,3 +92,7 @@ Kafka.Net.Api/
 │   ├── appsettings.json
 │
 └── docker-compose.yml
+
+## 🙋‍♂️ Autor
+
+Desenvolvido por [Natanael Sa Rodrigues](https://github.com/natansa)
